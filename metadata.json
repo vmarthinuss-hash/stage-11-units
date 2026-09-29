@@ -1,0 +1,6 @@
+{
+  "name": "Stage 11",
+  "description": "Interactive vocabulary flashcards, mastery games, and structured writing studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
